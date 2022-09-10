@@ -1,4 +1,3 @@
-using DaftAppleGames.Characters;
 using Invector.vCharacterController.AI.FSMBehaviour;
 
 namespace DaftAppleGames.AI
